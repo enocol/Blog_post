@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 # class CreateLikes < ActiveRecord::Migration[7.1]
 class LikesController < ApplicationController
   before_action :set_like, only: %i[show edit update destroy]

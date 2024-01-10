@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 # class CreatePosts < ActiveRecord::Migration[7.1]
 class PostsController < ApplicationController
   before_action :set_post, only: %i[show edit update destroy]

@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 # class CreateComments < ActiveRecord::Migration[7.1]
 class CommentsController < ApplicationController
   before_action :set_comment, only: %i[show edit update destroy]
