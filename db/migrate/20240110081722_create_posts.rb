@@ -1,4 +1,3 @@
-
 # creat post class
 class CreatePosts < ActiveRecord::Migration[7.1]
   def change
