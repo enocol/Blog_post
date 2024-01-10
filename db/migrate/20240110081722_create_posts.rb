@@ -1,4 +1,3 @@
-# frozen_string_literal: true
 
 # creat post class
 class CreatePosts < ActiveRecord::Migration[7.1]

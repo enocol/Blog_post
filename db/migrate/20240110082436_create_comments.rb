@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 # creat comments class
 class CreateComments < ActiveRecord::Migration[7.1]
   def change
