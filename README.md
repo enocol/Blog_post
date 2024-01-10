@@ -27,7 +27,7 @@
 
 <details>
   <ul>
-    <li><a href="https://www.ruby-lang.org/en/">Ruby</a></li>
+    <li><a href="https://www.ruby-lang.org/en/">Rubi</a></li>
     <li><a href="https://rubyonrails.org/">Ruby on Rails</a></li>
     <li><a href="https://www.postgresql.org/">PostgreSql</a></li>
 
