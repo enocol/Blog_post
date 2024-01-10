@@ -1,5 +1,4 @@
-ActiveRecord::Schema[7.1].define(version: 20_240_110_083_418)
- do
+ActiveRecord::Schema[7.1].define(version: 20_240_110_083_418) do
   enable_extension 'plpgsql'
 
   create_table 'comments', force: :cascade do |t|
