@@ -8,15 +8,15 @@ AllCops:
 DisplayCopNames: true
 
 Layout/LineLength:
-  enable: false
+  Max: 300
 Metrics/MethodLength:
-  Enabled: false
+  Max: 300
 Metrics/AbcSize:
 Enabled: false
 Metrics/ClassLength:
   Enabled: false
 Metrics/BlockLength:
-  Enabled: false
+  Max: 300
 
 Style/Documentation:
   Enabled: false
