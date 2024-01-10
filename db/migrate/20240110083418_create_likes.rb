@@ -1,9 +1,11 @@
+# frozen_string_literal: true
+
+# creat likes class
 class CreateLikes < ActiveRecord::Migration[7.1]
   def change
     create_table :likes do |t|
       t.bigint :UserId
       t.bigint :PostId
-
       t.timestamps
       t.index :UserId
       t.index :PostId
