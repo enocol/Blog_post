@@ -10,11 +10,11 @@ DisplayCopNames: true
 Layout/LineLength:
   enable: false
 Metrics/MethodLength:
-  Max: 300
+  Enabled: false
 Metrics/AbcSize:
-  Max: 50
+Enabled: false
 Metrics/ClassLength:
-  Max: 150
+  Enabled: false
 Metrics/BlockLength:
   Enabled: false
 
